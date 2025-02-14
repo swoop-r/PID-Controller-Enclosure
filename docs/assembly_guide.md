@@ -1,4 +1,4 @@
-# Open-Source Wooden PID Controller Enclosure for E-Nail Systems
+# Open-Source Wooden PID Controller Enclosure for E-Nail XLR Systems
 
 ## Overview
 This project is an **open-source PID controller enclosure** designed specifically for **flex nail e-nail systems**. The enclosure is crafted from **wood** to provide a stylish and natural alternative to traditional metal or plastic cases while maintaining **functionality and durability**. The design aims to support **standard PID controllers and heating coils** commonly used in e-nail setups.
