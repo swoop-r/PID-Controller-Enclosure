@@ -48,5 +48,5 @@ This project is licensed under the **MIT License**, meaning it is free to use, m
 
 ---
 **Project Maintainer:** Swoop-r, suhteevah
-**Contact:**
+**Contact: tbd**
 
