@@ -47,6 +47,6 @@ This is an **open-source project**, and contributions are welcome! Feel free to:
 This project is licensed under the **MIT License**, meaning it is free to use, modify, and distribute with proper attribution.
 
 ---
-**Project Maintainer:** [Your Name or GitHub Handle]  
-**Contact:** [Your Contact Info]
+**Project Maintainer:** Swoop-r
+**Contact:**
 
