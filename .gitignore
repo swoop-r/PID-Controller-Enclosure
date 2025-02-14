@@ -21,6 +21,7 @@ vendor/
 build/
 temp/
 dist/
+log/
 
 # Ignore IDE and editor configuration files
 .vscode/
