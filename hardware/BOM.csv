@@ -1,7 +1,7 @@
-﻿Item Number,Part Name,Part Number,Quantity,Description,Unit of Measure,Supplier,Cost per Unit,Notes,,,,
-1,SSR (Solid State Relay),SSR-25DA,1,Solid State Relay for controlling heater,Piece,Auber,25,Control Voltage: 3-32VDC, Operating Voltage: 24-480VAC, Current Rating: 25A, Zero-cross turn on,
-2,Heat Sink for SSR,HS25,1,Heat sink for 25A SSRs,Piece,Auber,15,Dimensions: Top 50x60mm, Base 50x80mm, Height 50mm, M4 screw thread,
-3,Temperature Controller,SYL-2352,1,PID Temperature Controller,Piece,Auber,30,Control Mode: PID, On-Off, Manual, Limit; Supports various sensor types, Auto-tune function
-4,Resistor,220Ω-1W,2,Resistor for current limiting,Piece,Generic,0.1,Used in heating control circuit,,,,
-5,Heating Element,30mm Gooseneck 10Wrap,1,Heating coil for e-nail,Piece,Divine Tribe / Generic,65,Required for the e-nail temperature regulation,,,,
-6,Wire,16AWG,10,Meter of 16AWG wire,Meter,Generic,0.5,For electrical connections,,,,
+﻿Item Number,Part Name,Part Number,Quantity,Description,Unit of Measure,Supplier,Cost per Unit,Notes
+1,SSR (Solid State Relay),SSR-25DA,1,Solid State Relay for controlling heater,Piece,Auber,25,Control Voltage: 3-32VDC, Operating Voltage: 24-480VAC, Current Rating: 25A, Zero-cross turn on
+2,Heat Sink for SSR,HS25,1,Heat sink for 25A SSRs,Piece,Auber,15,Dimensions: Top 50x60mm, Base 50x80mm, Height 50mm, M4 screw thread
+3,Temperature Controller,SYL-1512A,1,1/32 DIN PID Temperature Controller, smart, accurate, reliable,Piece,Auber,30,Compact size: 24 mm x 48 mm x 75 mm, Auto-tune function, Supports various sensors, 10 input types, Output for SSR or relay contact, 6-month warranty
+4,Resistor,220Ω-1W,2,Resistor for current limiting,Piece,Generic,0.1,Used in heating control circuit
+5,Heating Element,30mm Gooseneck 10Wrap,1,Heating coil for e-nail,Piece,Divine Tribe / Generic,65,Required for the e-nail temperature regulation
+6,Wire,16AWG,10,Meter of 16AWG wire,Meter,Generic,0.5,For electrical connections
