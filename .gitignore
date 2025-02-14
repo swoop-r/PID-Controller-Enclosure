@@ -1,0 +1,29 @@
+# Ignore CAD-specific files and directories
+*.bak
+*.swp
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency directories
+node_modules/
+vendor/
+
+# Ignore compiled files
+*.obj
+*.exe
+*.dll
+*.out
+
+# Ignore temporary or build files
+build/
+temp/
+dist/
+
+# Ignore IDE and editor configuration files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
