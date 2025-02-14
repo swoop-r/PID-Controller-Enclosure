@@ -14,9 +14,9 @@ This project is an **open-source PID controller enclosure** designed specificall
 This enclosure is designed to house a **standard PID controller**, typically used in e-nail setups. Below are some recommended **quality PID kits** that can be sourced and adapted for this project:
 
 1. **Auber Instruments** – Reliable and widely used in e-nail builds.
-   - [Auber PID E-Nail Kit](https://www.auberins.com)
+   - [Auber PID E-Nail Kit](https://www.auberins.com/index.php?main_page=product_info&cPath=1&products_id=106)
 2. **Inkbird ITC-106VH** – An affordable alternative with solid performance.
-   - [Inkbird ITC-106VH](https://www.ink-bird.com)
+   - [Inkbird ITC-106VH](https://inkbird.com/products/pid-temperature-controllers-itc-106)
 3. **Mypin TA4 Series** – Budget-friendly PID controllers with decent functionality.
    - Available on Amazon or eBay
 4. **Rex C100** – Common in DIY builds, though quality can vary.
